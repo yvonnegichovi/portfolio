@@ -16,7 +16,7 @@ html {
 }
 
 p {
-    color: rgb(85, 85, 85)
+    color: white; 
 }
 
 /* transition */
@@ -146,3 +146,35 @@ transform: none;
 }
 
 /* SECTIONS */
+
+#home {
+    background-image: url('/images/port3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
+
+.text-container {
+    margin-top: 10vh;
+}
+
+#about, #skills, #resume, #projects, #contact {
+    background-image: url('/images/port6.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
