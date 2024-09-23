@@ -1,4 +1,3 @@
-```md
 # Portfolio
 
 This is a portfolio project built using the MERN stack (MongoDB, Express, React, Node.js) to showcase my projects and achievements.
@@ -17,7 +16,6 @@ This is a portfolio project built using the MERN stack (MongoDB, Express, React,
 - **Node.js**: Runtime environment for server-side JavaScript.
 
 ## Project Structure
-```
 portfolio/
 │
 ├── client/               # React frontend
